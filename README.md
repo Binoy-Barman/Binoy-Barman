@@ -14,7 +14,7 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binoy-Barman&layout=compact&hide_border=true&theme=radical" alt="Top Langs">
-    <img src="https://komarev.com/ghpvc/?username=**Binoy-Barman**&style=flat-square&color=blue" alt="Profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=Binoy-Barman&style=flat-square&color=blue" alt="Profile views"/>
 </p>
 
 
